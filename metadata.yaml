@@ -1,0 +1,39 @@
+_repo: Seikkailumatka_71149
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Simojoki, Aukusti
+    alias: Simelius, Aukusti
+    birthdate: 1882
+    deathdate: 1959
+    gutenberg_agent_id: '43322'
+    url: http://www.gutenberg.org/2009/agents/43322
+creator:
+  author:
+    agent_name: Gerstäcker, Friedrich
+    aliases:
+    - Gerstacker, Friedrich
+    - Gerstäcker, Friedrich Wilhelm Christian
+    - Gerstaecker, Frederick
+    birthdate: 1816
+    deathdate: 1872
+    gutenberg_agent_id: '8053'
+    url: http://www.gutenberg.org/2009/agents/8053
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+description: ''
+gutenberg_issued: '2023-07-08'
+identifiers:
+  gutenberg: '71149'
+language: fi
+pgterms:marc905: 20220326035326gerstcker
+pgterms:marc906: '1922'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aFinland :$bArvi A. Karisto Oy, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Seikkailumatka
+url: http://www.gutenberg.org/ebooks/71149
