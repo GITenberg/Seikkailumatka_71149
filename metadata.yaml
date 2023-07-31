@@ -8,6 +8,9 @@ contributor:
     deathdate: 1959
     gutenberg_agent_id: '43322'
     url: http://www.gutenberg.org/2009/agents/43322
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gerstäcker, Friedrich
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8053
     wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71149#Seikkailumatka
 gutenberg_issued: '2023-07-08'
 identifiers:
   gutenberg: '71149'
